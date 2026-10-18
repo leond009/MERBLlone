@@ -6,4 +6,11 @@ SO my project has an automatic marble dispenser, youll se in the project the who
 Overall the project taught me a lot about CAD especially as I had never used onshape before, however i do feel that some functions are quite limited compared to other softwares i had used previously and that slowed me down a little bit. Nonetheless i think it is a very comprehensive program fit for beginners that want to design stuff a bit more complex than simple figures that other beginner programmes feature.
 
 Anyway here are some photos of the project and the dismensions for I used for the aluminum part and which note they make >:D.
+![Side of the aluminum part](sidealu.png)
+![TOP view](topalu.png)
+There is a 5mm gap to prevent the chasis of dampening the vibrations of the alu part, THAT IS CRUCIAL.
 
+Here is the chain component, when building u should print around 76 to fit around and youll see there is a simple one way connector, OFC the part where it locks is bigger than the portruding part. 
+
+![Chain component](isolatedchaincomponent.png)
+![Chain component](chaincomponent.png)
