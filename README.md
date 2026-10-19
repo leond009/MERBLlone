@@ -20,3 +20,17 @@ Finally here are some overviews of the whole thing
 ![view](Photos/topview.png)
 ![view](Photos/sideview.png)
 ![view](Photos/otherside.png)
+
+The measurements of the alu sheet
+
+| Note | Frequenz (Hz) | Länge für 5 mm Aluminium (cm) |
+| :--- | :-----------: | :---------------------------: |
+| **C4** | 261.6 | **10.5 cm** |
+| **D4** | 293.7 | **9.9 cm** |
+| **E4** | 329.6 | **9.3 cm** |
+| **F4** | 349.2 | **9.1 cm** |
+| **G4** | 392.0 | **8.6 cm** |
+| **A4** | 440.0 | **8.1 cm** |
+| **B4** | 493.9 | **7.6 cm** |
+| **C5** | 523.3 | **7.4 cm** |
+
